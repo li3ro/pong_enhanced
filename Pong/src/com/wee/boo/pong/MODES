@@ -1,0 +1,20 @@
+ADD: bien mais trop gros 64
+CLEAR: no
+DARKEN: no
+DST: NO
+DST_ATOP: no
+DST_IN: no
+DST_OUT: no
+DST_OVER: no
+
+MULTIPLY: no
+
+OVERLAY: no
+
+SCREEN: no
+
+SRC: no
+SRC_ATOP: no
+SRC_IN: no
+SRC_OUT: no
+SRC_OVER:
